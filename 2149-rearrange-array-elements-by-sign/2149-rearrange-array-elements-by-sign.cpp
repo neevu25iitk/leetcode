@@ -7,16 +7,16 @@ public:
         for(int num : nums)
         {
             if(num<0)
-            new1.push_back(num);
+            new1.emplace_back(num);
             else
-            new2.push_back(num);
+            new2.emplace_back(num);
 
         }
        
         for(int i=0;i<nums.size()/2;i++)
         {
-            new3.push_back(new2[i]);
-            new3.push_back(new1[i]);
+            new3.emplace_back(new2[i]);
+            new3.emplace_back(new1[i]);
         }
         return new3;
     }
