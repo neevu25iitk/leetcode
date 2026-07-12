@@ -4,12 +4,12 @@ public:
         vector<int> new1;
         vector<int> new2;
         vector<int> new3;
-        for(int i=0;i<nums.size();i++)
+        for(int num : nums)
         {
-            if(nums[i]<0)
-            new1.push_back(nums[i]);
+            if(num<0)
+            new1.push_back(num);
             else
-            new2.push_back(nums[i]);
+            new2.push_back(num);
 
         }
        
