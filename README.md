@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neevu25iitk/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neevu25iitk/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neevu25iitk/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/neevu25iitk/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/neevu25iitk/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/neevu25iitk/leetcode/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neevu25iitk/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3731-find-missing-elements](https://github.com/neevu25iitk/leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neevu25iitk/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/neevu25iitk/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/neevu25iitk/leetcode/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/neevu25iitk/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
