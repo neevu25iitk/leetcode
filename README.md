@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/neevu25iitk/leetcode/tree/master/0125-valid-palindrome) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/neevu25iitk/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/neevu25iitk/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neevu25iitk/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/neevu25iitk/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neevu25iitk/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/neevu25iitk/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neevu25iitk/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/neevu25iitk/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Bit Manipulation
 |  |
 | ------- |
