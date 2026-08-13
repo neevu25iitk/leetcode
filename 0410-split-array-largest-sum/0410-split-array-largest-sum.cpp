@@ -14,6 +14,7 @@ public:
             {
                 
                 sum+=nums[i];
+                
             }
             else
             {
