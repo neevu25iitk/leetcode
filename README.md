@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/neevu25iitk/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neevu25iitk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0413-arithmetic-slices](https://github.com/neevu25iitk/leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/neevu25iitk/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/neevu25iitk/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neevu25iitk/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/neevu25iitk/leetcode/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/neevu25iitk/leetcode/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/neevu25iitk/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/neevu25iitk/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/neevu25iitk/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/neevu25iitk/leetcode/tree/master/0413-arithmetic-slices) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neevu25iitk/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/neevu25iitk/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neevu25iitk/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
