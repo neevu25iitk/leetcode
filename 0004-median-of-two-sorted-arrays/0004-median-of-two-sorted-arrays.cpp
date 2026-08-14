@@ -36,7 +36,7 @@ public:
             }
                 else if(max_left1>min_right2)
                 {
-                    right=partition1;
+                    right=partition1-1;
                 }
                 else
                 {
