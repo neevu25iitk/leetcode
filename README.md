@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/neevu25iitk/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/neevu25iitk/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/neevu25iitk/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/neevu25iitk/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/neevu25iitk/leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/neevu25iitk/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/neevu25iitk/leetcode/tree/master/0413-arithmetic-slices) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/neevu25iitk/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/neevu25iitk/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/neevu25iitk/leetcode/tree/master/0217-contains-duplicate) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neevu25iitk/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neevu25iitk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/neevu25iitk/leetcode/tree/master/3731-find-missing-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neevu25iitk/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/neevu25iitk/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/neevu25iitk/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/neevu25iitk/leetcode/tree/master/0217-contains-duplicate) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neevu25iitk/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neevu25iitk/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/neevu25iitk/leetcode/tree/master/3731-find-missing-elements) |
