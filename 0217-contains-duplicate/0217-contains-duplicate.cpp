@@ -6,7 +6,10 @@ public:
         {
             count[nums[i]]++;
             if(count[nums[i]]>1)
+            {
             return true;
+            break;
+            }
         }
         return false;
 
