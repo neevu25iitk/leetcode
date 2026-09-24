@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neevu25iitk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/neevu25iitk/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/neevu25iitk/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/neevu25iitk/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/neevu25iitk/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/neevu25iitk/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/neevu25iitk/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/neevu25iitk/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neevu25iitk/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/neevu25iitk/leetcode/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/neevu25iitk/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
