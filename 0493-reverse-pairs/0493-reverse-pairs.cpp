@@ -5,7 +5,7 @@ public:
         vector<int>temp(high-low+1,0);
         int j=mid+1;
         for(int i=low;i<=mid;i++)
-        {   int j=mid+1;
+        {   
             while(j<=high && nums[i]>2*(long long)nums[j])
             {
                 
