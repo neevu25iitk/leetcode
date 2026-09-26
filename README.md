@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/neevu25iitk/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neevu25iitk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/neevu25iitk/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/neevu25iitk/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/neevu25iitk/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/neevu25iitk/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/neevu25iitk/leetcode/tree/master/0056-merge-intervals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neevu25iitk/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/neevu25iitk/leetcode/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/neevu25iitk/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/neevu25iitk/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/neevu25iitk/leetcode/tree/master/0704-binary-search) |
