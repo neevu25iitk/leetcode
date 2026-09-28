@@ -33,7 +33,7 @@ public:
             low=mid+1;
             else
             {
-                days=min(mid,days);
+                days=mid;
                 high=mid-1;
             }
         }
