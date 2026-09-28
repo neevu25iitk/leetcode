@@ -1,50 +1,42 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-         long long m1=m;
-         long long k1=k;
-
-        if(m1*k1>bloomDay.size())
+        if((long long)m*k>bloomDay.size())
         return -1;
-        int low=0;
         int high=*max_element(bloomDay.begin(),bloomDay.end());
-        int ans=0;
-
+        int low=1;
+        int days=high;
+        
         while(low<=high)
         {
-           int mid=(low+high)/2;
-           int flowers=0;
-           int bouquets=0;
-           for(int bloom : bloomDay)
-           {
-            if(bloom<=mid)
+            int mid=low+(high-low)/2;
+            int prev_state=0;
+            int bouquets=0;
+            int flowers=0;
+            for(int i=0;i<bloomDay.size();i++)
             {
-            flowers++;
-            if(flowers==k)
-            {
-                bouquets++;
-                flowers=0;
+                if(bloomDay[i]<=mid)
+                {
+                flowers++;
+                if(flowers==k)
+                {
+                    bouquets++;
+                    flowers=0;
+                }
+                }
+                else
+                {
+                    flowers=0;
+                }
             }
-            }
+            if(bouquets<m)
+            low=mid+1;
             else
             {
-                flowers=0;
-            }
-
-            }
-            if(bouquets>=m){
-                ans=mid;
+                days=min(mid,days);
                 high=mid-1;
             }
-            else
-            {
-                low=mid+1;
-            }
-
-
-           }
-        
-
-       return ans; 
+        }
+        return days;
     }
 };
