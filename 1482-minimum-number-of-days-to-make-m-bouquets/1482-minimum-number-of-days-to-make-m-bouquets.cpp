@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-         long long m1=m;
+        long long m1=m;
          long long k1=k;
 
         if(m1*k1>bloomDay.size())
