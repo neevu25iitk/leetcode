@@ -18,17 +18,13 @@ public:
                 if(bloomDay[i]<=mid)
                 {
                 flowers++;
-                if(flowers==k)
-                {
-                    bouquets++;
-                    flowers=0;
-                }
                 }
                 else
-                {
+                {   bouquets+=flowers/k;
                     flowers=0;
                 }
             }
+             bouquets+=flowers/k;
             if(bouquets<m)
             low=mid+1;
             else
