@@ -1,53 +1,43 @@
 class Solution {
 public:
-    bool canSplit(vector<int>& weights, int days,int mid)
-    {
-        int subarray_count=1;
-        int sum=0;
-        for(int i=0;i<weights.size();i++)
-        {
-            if(weights[i]>mid)
-            {
-                return false;
-            }
-            if(sum+weights[i]<=mid)
-            {
-                sum+=weights[i];
-            }
-            else
-            {
-                subarray_count++;
-                sum=weights[i];
-            }
-        }
-        if(subarray_count<=days)
-        return true;
-        return false;
-    }
     int shipWithinDays(vector<int>& weights, int days) {
-        int mx=weights[0];
-        int sum=0;
-        for(int i=0;i<weights.size();i++)
+        int low=weights[0];
+        int high=weights[0];
+        int cap=0;
+        for(int i=1;i<weights.size();i++)
         {
-            sum+=weights[i];
-            if(weights[i]>mx)
-            mx=weights[i];
+            if(weights[i]>low)
+            low=weights[i];
+            high+=weights[i];
         }
-        int start=0;
-        int end=sum;
-        sum=0;
-        int ans=INT_MAX;
-        while(start<=end)
-        {   int mid=(start+end)/2;
-            if(canSplit(weights,days,mid))
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            int curr=0;
+            int req=1;
+            for(int i=0;i<weights.size();i++)
             {
-                ans=min(ans,mid);
-                end=mid-1;
+                if(curr+weights[i]>mid)
+                {
+                    curr=weights[i];
+                    req++;
+                }
+                else
+                {
+                    curr+=weights[i];
+                }
+            }
+
+            if(req<=days)
+            {
+                cap=mid;
+                high=mid-1;
             }
             else
-            start=mid+1;
+            {
+                low=mid+1;
+            }
         }
-        
-        return ans;
+        return cap;
     }
 };
