@@ -15,16 +15,16 @@ public:
             int mid=(low+high)/2;
             int curr=0;
             int req=1;
-            for(int i=0;i<weights.size();i++)
+            for(int weight:weights)
             {
-                if(curr+weights[i]>mid)
+                if(curr+weight>mid)
                 {
-                    curr=weights[i];
+                    curr=weight;
                     req++;
                 }
                 else
                 {
-                    curr+=weights[i];
+                    curr+=weight;
                 }
             }
 
